@@ -1,6 +1,6 @@
 # Introduction
 
-This organization is used to collect a series of related hobby projects. Creating proficiency in Golang, Flutter, Postgres and other relevant skills.
+This organization is used to collect a series of related hobby projects. Gaining proficiency in Golang, Flutter, Postgres and other relevant skills.
 
 More to come...
 
